@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-llvm"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-llvm component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-llvm"
+path = "src/lib.rs"
