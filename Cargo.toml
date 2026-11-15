@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-llvm component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-llvm"
+name = "sigmaos_archlinux_llvm"
 path = "src/lib.rs"
